@@ -1,0 +1,14 @@
+.bannerSpan {
+    color: white;
+    font-size: 1.1rem;
+    font-weight: 200;
+}
+.episodeContent {
+    margin-left: 35px;
+    color: white;
+    font-weight: 400;
+}
+.sesson {
+    font-weight: 400;
+    color: red;
+}

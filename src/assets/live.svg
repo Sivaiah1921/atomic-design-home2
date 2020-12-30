@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="24px" viewBox="0 0 40 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>6D96CB30-9987-4160-8A46-F3998B04DB85</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-0.8%" y="-20.0%" width="101.5%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M31,0 C31.5522847,-1.01453063e-16 32,0.44771525 32,1 L32,15 C32,15.5522847 31.5522847,16 31,16 L1,16 C0.44771525,16 6.76353751e-17,15.5522847 0,15 L0,1 C-6.76353751e-17,0.44771525 0.44771525,1.01453063e-16 1,0 L31,0 Z M6.67446452,5 L5,5 L5,11 L9.39832097,11 L9.39832097,9.76923077 L6.67446452,9.76923077 L6.67446452,5 Z M12.8671544,5 L11.1926899,5 L11.1926899,11 L12.8671544,11 L12.8671544,5 Z M16.4272394,5 L14.5246462,5 L16.6234301,11 L18.7313391,11 L20.8301229,5 L18.9959683,5 L17.7321355,9.50727651 L17.6956349,9.50727651 L16.4272394,5 Z M27,5 L22.4876147,5 L22.4876147,11 L27,11 L27,9.76923077 L24.1620792,9.76923077 L24.1620792,8.54677755 L26.8311848,8.54677755 L26.8311848,7.42411642 L24.1620792,7.42411642 L24.1620792,6.23076923 L27,6.23076923 L27,5 Z" id="path-2"></path>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ATVE-homepage-solid-headercinema-display" transform="translate(-325.000000, -20.000000)">
+            <g id="Header/desktop/tlc/1600/sign-in" filter="url(#filter-1)">
+                <g id="Live" transform="translate(318.000000, 0.000000)">
+                    <g id="live-text-icon-center-right" transform="translate(0.000000, 8.000000)">
+                        <rect id="icon-wrapper" fill-opacity="0" fill="#D8D8D8" x="0" y="0" width="44" height="44"></rect>
+                        <g id="Group" transform="translate(11.000000, 14.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Combined-Shape" fill="#FFFFFF" xlink:href="#path-2"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

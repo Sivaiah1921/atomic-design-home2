@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>9AD6E90C-7554-4429-9C11-1A68F5B011B2</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-0.8%" y="-20.0%" width="101.5%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M15.0750447,14.705123 C15.3395407,15.0074042 15.3089098,15.4668679 15.0066286,15.731364 C14.7043474,15.99586 14.2448837,15.9652291 13.9803877,15.6629479 C9.67590631,10.7435406 5.59682096,10.7435406 1.29233959,15.6629479 C1.02784355,15.9652291 0.568379831,15.99586 0.266098644,15.731364 C-0.0361825422,15.4668679 -0.066813457,15.0074042 0.197682581,14.705123 C5.08167128,9.12342166 10.191056,9.12342166 15.0750447,14.705123 Z M7.96452328,0.0177383592 C10.5410357,0.0177383592 12.6297118,2.10641438 12.6297118,4.68292683 C12.6297118,7.25943928 10.5410357,9.3481153 7.96452328,9.3481153 C5.38801083,9.3481153 3.29933481,7.25943928 3.29933481,4.68292683 C3.29933481,2.10641438 5.38801083,0.0177383592 7.96452328,0.0177383592 Z M7.96452328,1.47228381 C6.19133411,1.47228381 4.75388027,2.90973765 4.75388027,4.68292683 C4.75388027,6.456116 6.19133411,7.89356984 7.96452328,7.89356984 C9.73771246,7.89356984 11.1751663,6.456116 11.1751663,4.68292683 C11.1751663,2.90973765 9.73771246,1.47228381 7.96452328,1.47228381 Z" id="path-2"></path>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ATVE-homepage-solid-headercinema-display" transform="translate(-1480.000000, -14.000000)">
+            <g id="Header/desktop/tlc/1600/sign-in" filter="url(#filter-1)">
+                <g id="nav-item-sign-in" transform="translate(1395.000000, 0.000000)">
+                    <g id="Icon-Container/sm-(32x32)" transform="translate(84.000000, 14.000000)">
+                        <g id="Icon/Nav/Profile" transform="translate(0.800000, 0.200000)">
+                            <g id="Profile" transform="translate(8.000000, 8.000000)">
+                                <mask id="mask-3" fill="white">
+                                    <use xlink:href="#path-2"></use>
+                                </mask>
+                                <use id="Combined-Shape" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-2"></use>
+                                <g id="Color/Neutral-10-(FFFFFF)" mask="url(#mask-3)" fill="#FFFFFF">
+                                    <g transform="translate(-8.000000, -8.000000)" id="Rectangle">
+                                        <rect x="0" y="0" width="32" height="32"></rect>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

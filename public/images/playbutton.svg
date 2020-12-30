@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="33px" viewBox="0 0 32 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>1E7DDF68-CCE4-4B56-9F82-4334456BBEFF</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <path d="M11.8492399,7.58341811 L1.65846699,13.4002217 C1.0939749,13.7224289 0.636363636,13.4906306 0.636363636,12.8818128 L0.636363636,1.11820816 C0.636363636,0.509691691 1.09365937,0.277412016 1.65846699,0.599799247 L11.8492399,6.41660287 C12.413732,6.73881 12.4140475,7.26103088 11.8492399,7.58341811 Z" id="path-1"></path>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ATVE-homepage-solid-headercinema-display" transform="translate(-89.000000, -331.000000)">
+            <g id="hero" transform="translate(1.000000, -332.000000)">
+                <g id="hero-meta-container" transform="translate(80.000000, 84.000000)">
+                    <g id="hero-meta-lockup" transform="translate(0.000000, 302.504155)">
+                        <g id="Group" transform="translate(0.000000, 0.299169)">
+                            <g id="Buttons-/-Contained-Buttons-/-onDark-/-Medium-/-w-Icon-Inactive" transform="translate(0.000000, 268.700831)">
+                                <g id="Icon-Container/sm-(32x32)" transform="translate(8.000000, 8.000000)">
+                                    <g id="Icon/Player/Play" transform="translate(10.800000, 9.200000)">
+                                        <mask id="mask-2" fill="white">
+                                            <use xlink:href="#path-1"></use>
+                                        </mask>
+                                        <use id="play" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                        <g id="Color/Neutral-01-(000000)" mask="url(#mask-2)" fill="#000000">
+                                            <g transform="translate(-6.636364, -5.000000)" id="Rectangle">
+                                                <rect x="0" y="0" width="24" height="24"></rect>
+                                            </g>
+                                        </g>
+                                    </g>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

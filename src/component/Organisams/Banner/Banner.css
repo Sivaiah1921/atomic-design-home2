@@ -1,0 +1,34 @@
+.bannerStyles {
+    display: flex;
+    flex-direction: column;
+    margin-left: 35px;
+    margin-top: 5px;
+    width: 450px;
+}
+.bannerStyles  span {
+    color: white;
+    margin: 10px 0;
+    font-size: 1.2rem;
+}
+.bannerStyles button {
+    display: flex;
+    align-items: center;
+    width: 130px;
+    background-color: white;
+    margin: 10px 0;
+}
+.slider-show {
+    justify-content: center;
+    display: flex;
+    /* background-color: red; */
+    margin-top: 100px;
+}
+.slider-show span {
+    margin: 2px;
+    width: 60px;
+    border-bottom: 2px solid rgba(161, 147, 147, 0.678);
+}
+.selected {
+    color: rgb(241, 23, 23);
+    border-bottom: 2px solid white !important;
+}

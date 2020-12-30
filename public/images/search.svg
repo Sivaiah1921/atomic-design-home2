@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 64 (101010) - https://sketch.com -->
+    <title>E9582698-3FB2-43B2-A38F-23B292709AC6</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <filter x="-0.8%" y="-20.0%" width="101.5%" height="140.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <path d="M19.639279,17.8963496 L15.0402047,13.2966581 C17.4418498,10.0398972 17.1598961,5.36658098 14.2354747,2.44236504 C12.6599478,0.867455013 10.5657577,0 8.33850848,0 C6.11105361,0 4.01706916,0.867455013 2.44257054,2.44236504 C0.86745496,4.01768638 0,6.1114653 0,8.338509 C0,10.5657584 0.86745496,12.6597429 2.44257054,14.2352699 C4.01727482,15.8103856 6.11125926,16.6778406 8.3389198,16.6778406 C10.141696,16.6778406 11.869408,16.1026221 13.2983025,15.0416452 L17.8963485,19.6388689 C18.1291506,19.8718766 18.4386621,20 18.7677109,20 C19.097788,20 19.4079165,19.871054 19.6380451,19.6398972 C19.8712584,19.4073008 19.9997931,19.0977892 20,18.768329 C20.0002044,18.4388689 19.872081,18.1291517 19.639279,17.8963496 Z M8.37533804,2.01324539 C10.0753089,2.01324539 11.6736559,2.67519815 12.8762048,3.8774523 C14.0763022,5.07703279 14.737303,6.67498808 14.737303,8.37677035 C14.737303,10.0785526 14.0763022,11.6767307 12.8759819,12.876534 C11.6738788,14.0785654 10.0755318,14.7405181 8.37533804,14.7405181 C6.67536717,14.7405181 5.07702015,14.0785654 3.87447127,12.876534 C2.67214526,11.6749483 2.01003023,10.076993 2.01003023,8.37677035 C2.01003023,6.67721612 2.67214526,5.07926083 3.87447127,3.8774523 C5.07724301,2.67542095 6.67559003,2.01324539 8.37533804,2.01324539 Z" id="path-2"></path>
+    </defs>
+    <g id="Main-Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ATVE-homepage-solid-headercinema-display" transform="translate(-1277.000000, -8.000000)">
+            <g id="Header/desktop/tlc/1600/sign-in" filter="url(#filter-1)">
+                <g id="nav-item-search" transform="translate(1269.000000, 0.000000)">
+                    <g id="Icon/Nav/Search" transform="translate(8.000000, 8.000000)">
+                        <g id="Search" transform="translate(12.000000, 12.000000)">
+                            <mask id="mask-3" fill="white">
+                                <use xlink:href="#path-2"></use>
+                            </mask>
+                            <use id="Magnifying-Glass" fill="#FFFFFF" fill-rule="nonzero" xlink:href="#path-2"></use>
+                            <g id="Color/Neutral-10-(FFFFFF)" mask="url(#mask-3)" fill="#FFFFFF">
+                                <g transform="translate(-10.000000, -10.000000)" id="Rectangle">
+                                    <rect x="0" y="0" width="40" height="40"></rect>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,47 @@
+.header {
+    color: white;
+    display: flex;
+    list-style-type: none;
+    align-items: center;
+    width: 100%;
+    
+}
+.li {
+    margin: 28px;
+}
+.tlc {
+  padding-top: 8px;
+}
+.onNow {
+    display: flex;
+    flex-grow: 1;
+}
+.onNow {
+    text-decoration: none;
+}
+.shows {
+    color: white;
+    padding-bottom: 6px;
+}
+.search {
+    display: flex;
+}
+.search span {
+    padding-top: 10px;
+}
+.gridIcon {
+    display: flex;
+    
+}
+.gridIcon  {
+    text-decoration: none;
+}
+
+.profile {
+    display: flex;
+    text-decoration: none;
+}
+.profile span {
+    padding-top: 5px;
+    color: white;
+}
