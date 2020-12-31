@@ -4,8 +4,8 @@ import PosterShowCollection from '../../Molecules/PosterShowCollection/PosterSho
 import EpisodeData from '../../../config/EpisodeData.json'
 import PosterData from '../../../config/PosterData.json'
 import './ConentArea.css'
-import Image from '../../Atoms/Image/Image'
-import Heading from '../../Atoms/Heading/Heading'
+import EpisodeContent from '../../Molecules/EpisodeContent/EpisodeContent'
+import ContentImage from '../../Molecules/ContentArea/ContentImage'
 
 
 /**
@@ -15,16 +15,16 @@ import Heading from '../../Atoms/Heading/Heading'
 const ContentArea:React.FC = () => {
     return (
         <div>
-            <Heading className="episodeContent" text="Continue Watching" />
+            <EpisodeContent className="episodeContent" text="Continue Watching" />
             <div  className="collection">
-               <div className="slider-lf"> <Image srcImg='./images/leftslider.svg' altText='slider'/></div>
+               <div className="slider-lf"> <ContentImage srcImg='./images/leftslider.svg' altText='slider'/></div>
                     {EpisodeData.map(item => {
                         return  <EpisodeCollection key={item.iconName}  item={item.iconName} />
                              
                     } )}
-                <div className="slider-rg"><Image srcImg='./images/rightSlider.svg' altText='slider'/></div> 
+                <div className="slider-rg"><ContentImage srcImg='./images/rightSlider.svg' altText='slider'/></div> 
             </div>
-            <Heading className="episodeContent" text="Recommenended For You"/>
+            <EpisodeContent className="episodeContent" text="Recommenended For You"/>
             <div className="collection-1">
                     {PosterData.map(item => {
                         return  <PosterShowCollection  key={item.iconName}  item={item.iconName} />

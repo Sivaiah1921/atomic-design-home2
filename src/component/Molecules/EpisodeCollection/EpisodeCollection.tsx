@@ -11,7 +11,7 @@ import EpisodeContent from '../EpisodeContent/EpisodeContent'
 export interface Collection {
     item?:string
 }
-const EpisodeCollection:React.SFC<Collection> = ({item}) => {
+const EpisodeCollection:React.FC<Collection> = ({item}) => {
 
     return (
         <>

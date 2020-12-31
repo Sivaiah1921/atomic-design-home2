@@ -15,7 +15,7 @@ export interface ImageProp {
     children?:any,
     altText?:string
 } 
-const Image:React.SFC<ImageProp>=(props) =>{
+const Image:React.FC<ImageProp>=(props) =>{
   const { className = '', children, srcImg ='', altText = '', ...rest } = props;
   console.log(props)
   return (

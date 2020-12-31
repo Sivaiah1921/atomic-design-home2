@@ -7,7 +7,7 @@ import { Collection } from '../EpisodeCollection/EpisodeCollection'
  * renders the poster list of data using this PosterShowCollection Component
  * @param {Object} param0 
  */
-const PosterShowCollection:React.FC<Collection> = ({item}) => {
+const PosterShowCollection:React.FC<Collection> = ({item}: any) => {
     return (
         <>
             <Image className="posterShow" srcImg={`./images/${item}.png`} altText="no-image" />
