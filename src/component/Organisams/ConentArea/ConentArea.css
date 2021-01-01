@@ -1,36 +1,36 @@
 .collection {
-    display: flex;
-    padding: 0 30px;
-    position: relative;
+	display: flex;
+	padding: 0 30px;
+	position: relative;
 }
 .slider-lf {
-    width: 43px;
-    position: absolute;
-    background-color: black;
-    top: 45px;
-    opacity: 0.5;
-    border-radius: 50%;
-    left: 23px;
-    height: 43px;
+	width: 43px;
+	position: absolute;
+	background-color: black;
+	top: 45px;
+	opacity: 0.5;
+	border-radius: 50%;
+	left: 23px;
+	height: 43px;
 }
 .slider-rg {
-    position: absolute;
-    width: 43px;
-    position: absolute;
-    background-color: black;
-    top: 45px;
-    opacity: 0.5;
-    border-radius: 50%;
-    right: 13px;
-    height: 43px;
+	position: absolute;
+	width: 43px;
+	position: absolute;
+	background-color: black;
+	top: 45px;
+	opacity: 0.5;
+	border-radius: 50%;
+	right: 13px;
+	height: 43px;
 }
-.collection-1{
-    display: flex;
-    padding: 0 30px;
+.collection-1 {
+	display: flex;
+	padding: 0 30px;
 }
 .title {
-    font-size: 20px;
-    color: #ffffff;
-    line-height: 28px;
-    padding-left: 28px;
+	font-size: 20px;
+	color: #ffffff;
+	line-height: 28px;
+	padding-left: 28px;
 }

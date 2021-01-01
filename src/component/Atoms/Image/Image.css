@@ -1,14 +1,14 @@
 .standardEpisodee {
-    width: 250px;
-    margin: 0 5px;
-    object-fit: contain;
+	width: 250px;
+	margin: 0 5px;
+	object-fit: contain;
 }
 .posterShow {
-    width: 147px;
-    margin: 0 7px;
-    object-fit: contain;
+	width: 147px;
+	margin: 0 7px;
+	object-fit: contain;
 }
 .bannerImage {
-     width: 280px;
-     height:128px;
+	width: 280px;
+	height: 128px;
 }

@@ -1,47 +1,45 @@
 .header {
-    color: white;
-    display: flex;
-    list-style-type: none;
-    align-items: center;
-    width: 100%;
-    
+	color: white;
+	display: flex;
+	list-style-type: none;
+	align-items: center;
+	width: 100%;
 }
 .li {
-    margin: 28px;
+	margin: 28px;
 }
 .tlc {
-  padding-top: 8px;
+	padding-top: 8px;
 }
 .onNow {
-    display: flex;
-    flex-grow: 1;
+	display: flex;
+	flex-grow: 1;
 }
 .onNow {
-    text-decoration: none;
+	text-decoration: none;
 }
 .shows {
-    color: white;
-    padding-bottom: 6px;
+	color: white;
+	padding-bottom: 6px;
 }
 .search {
-    display: flex;
+	display: flex;
 }
 .search span {
-    padding-top: 10px;
+	padding-top: 10px;
 }
 .gridIcon {
-    display: flex;
-    
+	display: flex;
 }
-.gridIcon  {
-    text-decoration: none;
+.gridIcon {
+	text-decoration: none;
 }
 
 .profile {
-    display: flex;
-    text-decoration: none;
+	display: flex;
+	text-decoration: none;
 }
 .profile span {
-    padding-top: 5px;
-    color: white;
+	padding-top: 5px;
+	color: white;
 }

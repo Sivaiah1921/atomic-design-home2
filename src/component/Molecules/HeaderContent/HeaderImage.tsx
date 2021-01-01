@@ -1,12 +1,12 @@
-import React from 'react'
-import Image from '../../Atoms/Image/Image'
+import React from "react";
+import Image, { ImageProp } from "../../Atoms/Image/Image";
 
-function HeaderImage({srcImg,altText}) {
-    return (
-        <div>
-            <Image srcImg={srcImg} altText={altText} />
-        </div>
-    )
-}
+const HeaderImage: React.FC<ImageProp> = ({ srcImg, altText }) => {
+	return (
+		<div>
+			<Image srcImg={srcImg} altText={altText} />
+		</div>
+	);
+};
 
-export default HeaderImage
+export default HeaderImage;
